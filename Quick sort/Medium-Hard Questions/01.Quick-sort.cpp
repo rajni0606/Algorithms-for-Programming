@@ -1,7 +1,7 @@
 /*
 C++ program to demonstrate the implementation of Quick Sort such that positive and negative numbers
 alternate in position. Also, in case the number of positive integers is more than that of negative,
-or vice-versa, they would be shifted to the end and sorted as usual using quick sort.
+or vice-versa, they would be shifted to the end and sorted as usual using a quick sort.
 Contributed to  Data-Science-Community-SRM on Github
 Contributor: Rajni Soundararajan
 */
